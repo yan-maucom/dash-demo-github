@@ -1,0 +1,6 @@
+{
+  "name": "UNIAF - Painel e Indicadores Hospitalar (Demo)",
+  "description": "Painel de controle e gestão de inventário farmacêutico hospitalar - versão de demonstração com dados fictícios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
